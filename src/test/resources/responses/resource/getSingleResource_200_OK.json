@@ -1,0 +1,13 @@
+{
+  "data": {
+    "color": "#C74375",
+    "year": 2001,
+    "name": "fuchsia rose",
+    "id": 2,
+    "pantone_value": "17-2031"
+  },
+  "support": {
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!",
+    "url": "https://reqres.in/#support-heading"
+  }
+}

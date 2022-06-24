@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="api.tests.resource.ResourceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-24T09:45:22" hostname="Erlans-MacBook-Pro.local" time="1.126">
+  <properties/>
+  <testcase name="test01_getListResources_200_OK()" classname="api.tests.resource.ResourceTest" time="0.858"/>
+  <testcase name="test03_getSingleResource_404_NOT_FOUND()" classname="api.tests.resource.ResourceTest" time="0.129"/>
+  <testcase name="test02_getSingleResource_200_OK()" classname="api.tests.resource.ResourceTest" time="0.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
